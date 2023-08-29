@@ -1,0 +1,36 @@
+{
+"retirementplandata":
+{
+    "currentage": 40,
+    "retirementage": 60,
+    "annualincome": 100000,
+    "spouseincome": 75000,
+    "currentsavingsbalance": 500000,
+    "yearlysavings": 10,
+    "yearlyincrementrate": 1,
+    "securityoverrideamount": 4000,
+    "additionalincome": 500,
+    "retirementduration": 20,
+    "desiredfinalincome": 75,
+    "preinvestmentreturn": 8,
+    "postinvestmentreturn": 5
+},
+
+"staticmessages":
+{
+    "planhomepagetitle": "How Much to Save for Retirement | Securian Financial"
+},
+"screenshotnames":
+{
+    "formsubmissionwithallfields": "formsubmissionwithallfields",
+    "formsubmissionwithrequiredfields": "formsubmissionwithrequiredfields",
+    "nonrequiredfield": "nonrequiredfield",
+    "socialsecurityadditionalfileds": "socialsecurityadditionalfileds",
+    "fromsubmissionwithsociasecurityfields":"fromsubmissionwithsociasecurityfields",
+    "formsubmissionwithdefaultvaluesmodified":"formsubmissionwithdefaultvaluesmodified",
+    "modifieddefaultvalues":"modifieddefaultvalues",
+    "mandatoryfiledserrormessage":"mandatoryfiledserrormessage"
+}
+
+
+}
